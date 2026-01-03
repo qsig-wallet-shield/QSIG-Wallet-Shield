@@ -1,0 +1,20 @@
+{
+  "name": "qsig-wallet-shield",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@asanrom/dilithium": "^1.1.1",
+    "@openforge-sh/liboqs": "^0.14.3"
+  }
+}
